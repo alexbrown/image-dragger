@@ -1,0 +1,4 @@
+# standard ignores
+node_modules/
+lib/
+demo/
