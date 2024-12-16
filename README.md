@@ -11,6 +11,8 @@ A simple, lightweight way to add an image comparison tool to your website/app
 ## Usage
 
 ```
+import { ImageDragger } from 'image-dragger';
+
 ImageDragger.create("#car", {
   leftImage: "./demo/images/car.jpg",
   rightImage: "./demo/images/car-bg-removed.png",
