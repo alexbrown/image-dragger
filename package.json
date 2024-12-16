@@ -1,6 +1,5 @@
 {
   "name": "image-dragger",
-  "private": true,
   "version": "0.0.1",
   "type": "module",
   "module": "./dist/image-dragger.js",
