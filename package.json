@@ -1,0 +1,24 @@
+{
+  "name": "image-dragger",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "module": "./dist/image-dragger.js",
+  "exports": {
+    ".": {
+      "import": "./dist/image-dragger.js",
+      "require": "./dist/image-dragger.umd.cjs"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  },
+  "dependencies": {
+    "highlight.js": "^11.11.0"
+  }
+}
