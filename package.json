@@ -1,6 +1,6 @@
 {
   "name": "image-dragger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "module": "./dist/image-dragger.js",
   "exports": {
@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "highlight.js": "^11.11.0",
-    "image-dragger": "^0.0.1"
+    "image-dragger": "^0.0.2"
   }
 }
